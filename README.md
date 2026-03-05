@@ -36,10 +36,17 @@ https://github.com/user-attachments/assets/b038aa3b-e42b-4f72-ac5d-a130cdb56a9f
 
 
 
+---
+## Running Bot Screenshot
+
+<img width="1796" height="937" alt="github-update-4-" src="https://github.com/user-attachments/assets/6b5f2782-a0f8-4333-9727-7699cd88c839" />
+
+
+<img width="1796" height="930" alt="github-update-5-" src="https://github.com/user-attachments/assets/13d4b57a-7268-4102-ba28-93017026884f" />
 
 
 ---
-## Screenshot
+## Result Screenshot
 
 <img width="1384" height="895" alt="github-update-1" src="https://github.com/user-attachments/assets/e95f5fd9-df93-4d8f-be58-bee7568619c0" />
 
