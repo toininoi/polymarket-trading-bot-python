@@ -57,7 +57,7 @@ https://github.com/user-attachments/assets/b038aa3b-e42b-4f72-ac5d-a130cdb56a9f
 ## Telegram Trial Version Bot
 You can also test the bot directly on Telegram.
 
-**@benjamincup_polymarket_bot[https://t.me/benjamincup_polymarket_bot]**
+**@benjamincup_polymarket_bot[https://t.me/benjamin_polymarket_trading_bot]**
 
 <img width="463" height="308" alt="image" src="https://github.com/user-attachments/assets/1ca27ab4-f200-4e84-995a-075b7ff6c9a9" />
 
