@@ -70,7 +70,7 @@ https://github.com/user-attachments/assets/1bf1babc-8aa6-4be0-b1ec-4e193f52b965
 
 
 
-# 3. Polymarket Ladder Trading Bot (Introduction)
+# 3. Polymarket Arbitrage (Ladder Trading) Bot (Introduction)
 This bot does not speculate on market direction.
 Instead, it captures spread by selling both YES and NO outcome tokens at prices whose combined value exceeds $1.
 The strategy focuses on market making, not directional trading.
@@ -307,7 +307,7 @@ polymarket-trading-bot-5m-v4/
 ---
 
 
-# 3. Polymarket Ladder Trading Bot (5m / 15m / 1h / 4h / 1d crypto Up/Down markets) (Explain)
+# 3. Polymarket Arbitrage (Ladder Trading) Bot (5m / 15m / 1h / 4h / 1d crypto Up/Down markets) (Explain)
 
 ## Overview
 
