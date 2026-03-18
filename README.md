@@ -1,4 +1,4 @@
-# Polymarket Bot | Polymarket Trading Bot | Polymarket Trading Bot - 5 min market | Polymarket Arbitrage Bot
+# Polymarket Bot | Polymarket Trading Bot | Polymarket Trading Bot - 5 min market | Polymarket Arbitrage Bot | Polymarket Copy trading Bot
 
 Polymarket Bot, Polymarket Trading Bot, Polymarket 5min market Trading Bot, Polymarket Automatic Trading Bot
 
