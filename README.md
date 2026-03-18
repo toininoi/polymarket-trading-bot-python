@@ -60,7 +60,7 @@ https://github.com/user-attachments/assets/4b9d029d-8e20-460b-af72-48412934293f
 https://t.me/benjamin_polymarket_trading_bot
 
 ---
-# 2. Polymarket Copy Trading Bot (Introduction)
+# 2. Polymarket Copy Trading Bot (Introduction) 
 An open-source bot that automatically copies trades from top Polymarket traders to your wallet—so you can follow proven strategies 24/7 without watching the market yourself.
 
 Whether you're new to prediction markets or you want to scale your copy-trading across multiple wallets, this bot is built to be **simple to run**, **transparent**, and **under your control**.
@@ -71,7 +71,7 @@ Whether you're new to prediction markets or you want to scale your copy-trading 
 
 https://github.com/user-attachments/assets/1bf1babc-8aa6-4be0-b1ec-4e193f52b965
 
-# 3. Polymarket Arbitrage Bot (Dual-side)
+# 3. Polymarket Arbitrage Bot (Dual-side) : (Introduction)
 This Polymarket trading bot explores an automated volatility and probability arbitrage bot designed to identify pricing inefficiencies in prediction markets. Instead of predicting outcomes, the system exploits mispriced probabilities, market imbalances, and short-term volatility using quantitative models and automation. By combining high-frequency execution with strong risk management and hedging, the bot aims to capture small statistical edges and compound them over large trade volumes. 🚀
 
 
@@ -84,7 +84,7 @@ This Polymarket trading bot explores an automated volatility and probability arb
 
 
 
-# 4. Polymarket Arbitrage (Ladder Trading) Bot (Introduction)
+# 4. Polymarket Arbitrage Bot (Ladder Trading) : (Introduction)
 This bot does not speculate on market direction.
 Instead, it captures spread by selling both YES and NO outcome tokens at prices whose combined value exceeds $1.
 The strategy focuses on market making, not directional trading.
